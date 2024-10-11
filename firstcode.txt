@@ -1,2 +1,7 @@
 hello testing git and github praticisnig the command 
 commands of git 
+
+take input 
+yes 
+
+00
